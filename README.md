@@ -1,2 +1,3 @@
-# SpyglassPlugin
-Plugin interface for the Spyglass application
+#Plugin interface for the Spyglass application
+
+A description of this package.
